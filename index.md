@@ -1,1 +1,10 @@
+---
+layout: post
+title: Test Site
+---
+#{{Title}}#
+##Hello World##
+**A bold Text**
+*Italic Text*
 
+And some normal Text.
