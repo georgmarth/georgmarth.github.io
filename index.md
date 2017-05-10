@@ -7,3 +7,6 @@ title: Test Site
 
 
 And some normal Text.
+
+*italic text*
+**bold text**
