@@ -1,6 +1,8 @@
 ---
 title: Test Site
 ---
+{{Title}}
+
 ## The title page
 
 
