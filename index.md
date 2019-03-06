@@ -31,4 +31,4 @@ I participated in two global game jams and these are the games I worked on.
 
 **mail: [marth.georg@gmail.com](mailto:marth.georg@gmail.com)**  
 **Twitter: [@Voldepreuss](https://twitter.com/voldepreuss)**  
-**github: [github.com/georgmarth](github.com/georgmarth)**
+**github: [github.com/georgmarth](https://github.com/georgmarth)**
