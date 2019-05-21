@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-section #title h1 {
+//section #title h1 {
     //background-color: blueviolet;
+//}
+
+.site-navigation {
+    border: 3px;
 }
