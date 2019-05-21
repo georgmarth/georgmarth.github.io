@@ -6,6 +6,16 @@
     //background-color: blueviolet;
 //}
 
-#site-navigation {
-    border: 3px;
+nav#site-navigation {
+    padding: 5px;
+    border: 2px;
+    border-color: #e8e8e8;
+    border-style: dashed;
+}
+
+nav#site-navigation > a {
+    margin: 10px;
+    padding: 2px;
+    font-weight: normal;
+    font-size: larger;
 }
