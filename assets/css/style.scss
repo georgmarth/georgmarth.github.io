@@ -22,9 +22,28 @@ nav#site-navigation > a {
 
 img#photo {
     float: left;
-    margin: 0 20px 20px 0;
+    padding: 0 20px 20px 0;
 }
 
+img.screenshot {
+    float: left;
+    padding: 0 20px 20px 0;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+// float clear block
+
 h1#portfolio {
+    clear: left;
+}
+
+h1#global-game-jam {
+    clear: left;
+}
+
+h2#rubiks-cube-game {
     clear: left;
 }

@@ -14,13 +14,28 @@ Hi, I'm Georg Marth, a Unity and general game programmer from Berlin. I made thi
 These are some projects that I worked on by myself or at school.
 
 ## Duel Magic
-
+<img class="screenshot" src="assets/images/duelmagic.jpg" alt="screenshot of duel magic game" height="250px" width="250px">
 A two-player splitscreen fighting game where you shoot your opponent with magic.  
-I created this game for my intermediate exam at GPB Berlin. 
+I created this game for my intermediate exam at GPB Berlin. The theme for the exam was 'Love is a Shield'.  
+Two players control each character with an X-Box controller. They can move freely in the arena but always look at their opponent. Each player has a magic and a life meter. The magic slowly refills over time.  
+You can shoot magic missiles at your opponent and have to lead your shots if they are evading them. Also you can generate a shield that will stay in place and block enemy shots, until it is depleted. You can also change you magic color in a rock paper scissors like fashion to gain an advantage over your enemy.
+
+[Link to github repository](https://github.com/georgmarth/Duel-Magic)
 
 ## Rubiks Cube Game
 
-Solve different virtual Rubiks cubes. You have the choice between 4 different cubes and the game shuffles them randomly with the specified amount. You can set a time limit for you to solve or just let the timer run up. The game also checks if the cube is solved and celebrates for you!
+<img class="screenshot" src="assets/images/rubiks.jpg" alt="screenshot of rubiks game" height="250px" width="250px">
+Solve different virtual Rubiks cubes. You have the choice between 4 different cubes and the game shuffles them randomly with the specified amount.
+
+Your choices for cubes are
+- 2x2x2
+- 3x3x3
+- 4x4x4
+- a special 3x3x3 cube that is rotated. 
+
+You can set a time limit for you to solve or just let the timer run up. The game also checks if the cube is solved and celebrates for you!
+
+[Link to github repository](https://github.com/georgmarth/Rubiks)
 
 # Global Game Jam
 
