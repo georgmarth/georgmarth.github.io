@@ -42,7 +42,7 @@ You can set a time limit for you to solve or just let the timer run up. The game
 I participated in two global game jams and these are the games I worked on.
 
 ## Always on Static
-
+<img class="screenshot" src="assets/images/ggj2018.jpg" alt="screenshot of Always on Static" height="250px" width="250px">
 [Link to Global Game Jam game site](https://globalgamejam.org/2018/games/always-static)
 
 I made my first hacked together network multiplayer game in 2018s global game jam. The theme for the jam was 'transmission'. In this asymmetrical game you either play as someone on the roof trying to adjust an antenna or as the person in the living room streaming a videogame. The two people must work together and communicate via cell phone message icons.  
@@ -51,14 +51,14 @@ I was responsible for the programming part of the unity client.
 The code for the unity side of things can be found at my [GGJ2018 repository](https://github.com/georgmarth/GGJ2018).
 
 ## What Remains of Gone Home
-
+<img class="screenshot" src="assets/images/ggj2019.jpg" alt="screenshot of What Remains of Gone Home" height="250px" width="250px">
 [Link to Global Game Jam game site Site](https://globalgamejam.org/2019/games/what-remains-gone-home)
 
 In the global game jam 2019 I was more involved in modeling and game design than actual programming.
 The theme to this years jam was 'What home means to you'. Our game was called 'What remains of Gone Home' and was a music and narration focused game. Details about the project can be found on the jam site and on [github](https://github.com/tobiasbruch/GGJ_2019).
 
 # Personal 
-
+<img class="screenshot" src="assets/images/violin.jpg" alt="screenshot of my violin model" height="250px" width="250px">
 Although I am foremost a programmer, I have an interest in many different fields and disciplines.  
 I can do 3D modeling in Blender3D and know my way around Photoshop and Substance Painter. I also have experience recording and mixing audio with professional hardware.  
 I play the violin, guitar and bass as a hobby and used to do so professionally in a folk band.  

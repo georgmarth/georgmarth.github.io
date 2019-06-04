@@ -34,16 +34,6 @@ ul {
     list-style-position: inside;
 }
 
-// float clear block
-
-h1#portfolio {
-    clear: left;
-}
-
-h1#global-game-jam {
-    clear: left;
-}
-
-h2#rubiks-cube-game {
+h1:not(#about-me), h2 {
     clear: left;
 }
