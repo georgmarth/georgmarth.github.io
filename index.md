@@ -7,7 +7,7 @@ title: Georg Marth's personal website
 
 # About Me
 
-Hi, I'm Georg Marth, a Unity and general game programmer from Berlin. I made this site to present myself and my work. I studied computer science in Magdeburg for three years. Later I went to GPB Berlin to learn game design and game specific programming. Right now I am looking for an internship for 6 months in game related programming. If you are interested, please contact me via [mailto:marth.georg@gmail.com](email).
+Hi, I'm Georg Marth, a Unity and general game programmer from Berlin. I made this site to present myself and my work. I studied computer science in Magdeburg for three years. Later I went to GPB Berlin to learn game design and game specific programming. Right now I am looking for an internship for 6 months in game related programming. If you are interested, please contact me via [email](mailto:marth.georg@gmail.com).
 
 # Portfolio
 
